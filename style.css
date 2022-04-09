@@ -1,0 +1,49 @@
+body{
+  background: url("background.jpg");
+}  
+  
+  
+  
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading2
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  
+  .result_para_tag 
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  canvas{
+
+    background-color: whitesmoke;
+    border-radius: 20px;
+    border-color: black;
+    margin-top: 100px;;
+  }
+ 
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  .copy_right_footer{
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+
+
+  }
